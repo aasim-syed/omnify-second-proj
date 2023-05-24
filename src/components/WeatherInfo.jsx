@@ -1,6 +1,6 @@
 import React from 'react';
 import { Box, Divider, Typography, Grid } from '@mui/material';
-import { time, day } from '../utils/Helpers';
+import { time, day } from '../utils/helpers';
 import ThermostatIcon from '@mui/icons-material/Thermostat';
 import OpacityIcon from '@mui/icons-material/Opacity';
 import AirIcon from '@mui/icons-material/Air';
