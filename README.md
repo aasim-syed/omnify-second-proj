@@ -8,7 +8,7 @@
 - #### **Fixing API on deployment : 4-5 hr (debugging and stuff) **
 - #### **Final touches : 1 hr (debugging and stuff) **
 
-### [Demo Link]() 🔗
+### [Demo Link](https://omnify-second-proj.vercel.app/) 🔗
 
 ## Author:
 
