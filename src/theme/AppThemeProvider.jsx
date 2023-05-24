@@ -5,20 +5,20 @@ import { createTheme, ThemeProvider } from '@mui/material';
 const theme = createTheme({
     palette: {
         primary: {
-            main: "#1f2687"
+            main: "#000"
         },
     },
     components: {
         MuiCssBaseline: {
             styleOverrides: {
                 html: {
-                    fontSize: "16px",
+                    fontSize: "15px",
                     '@media (max-width: 399px)': {
                         fontSize: "13px"
                     }
                 },
                 body: {
-                    backgroundImage: "linear-gradient(to top, #dfe9f3 0%, rgba(31, 38, 135, 0.1) 100%)",
+                    backgroundImage: "linear-gradient(to right, #692c98, #21367e, #ac1e1e) 100%)",
                 },
                 svg: {
                     verticalAlign: "middle"
@@ -33,7 +33,7 @@ const theme = createTheme({
         MuiIconButton: {
             defaultProps: {
                 sx: {
-                    bgcolor: "primary.light",
+                    bgcolor: "primary.dark",
                     color: "#fff",
 
                     '&:hover': {

@@ -4,7 +4,7 @@
 
 ## Author:
 
-- **A. Syed Aasim ** - **[Portfolio Website](https://syed-aasim.vercel.app)**, **[Linkedin](https://www.linkedin.com/in/gulshan-songara/)**
+- **A. Syed Aasim ** - **[Portfolio Website](https://syed-aasim.vercel.app)**, **[Linkedin](https://www.linkedin.com/in/syed-aasim/)**
 
 
 <br/>

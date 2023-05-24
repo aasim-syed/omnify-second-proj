@@ -6,10 +6,10 @@ const WelcomePop = () => {
         <>
             <Box mt={8} mb={4}>
                 <Typography variant="h4" color="primary.main">
-                    WeatherX
+                    Omnify Assigment⚡
                 </Typography>
                 <Typography variant="h6" fontWeight={400}>
-                    Find the weather of your city
+                    Find the weather of any city built with 💓 OpenweatherAPI and ReactJS
                 </Typography>
             </Box>
             <Box>

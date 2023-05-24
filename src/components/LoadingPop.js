@@ -6,7 +6,7 @@ const LoadingPop = () => {
         <Box mt={5}>
             <CircularProgress />
             <Typography variant="h5" mt={2}>
-                Fetching...
+                Fetching...⌛⏳
             </Typography>
         </Box>
     );
