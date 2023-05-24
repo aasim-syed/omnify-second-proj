@@ -12,7 +12,7 @@ const WeatherBox = () => {
     const [weatherData, setWeatherData] = useState(null);
 
     // API URL
-    const apiUrl = `${BASE_URL}/weather?q=${cityName}&appid=${apiKey}&units=metric`;
+    const apiUrl = `${BASE_URL}/weather?q=${cityName}&appid=${"fbbfe22a1c4c83e9bc032cf172038e94"}&units=metric`;
 
     // Fetching the Weather Data
     const fetchWeatherData = async () => {
